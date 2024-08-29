@@ -3,4 +3,4 @@ function contarCaracteres(cadena) {
     return (cadena.length);
 }
 
-console.log(contarCaracteres("cadena"));
+console.log("Número de caracteres: ", contarCaracteres("cadena"));
